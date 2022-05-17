@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 70%;margin: 0 auto;
+    
+}
+.center{
+    margin-top: 4rem;
+    text-align: center
+}
+h1{
+    color: grey;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li{
+    margin: 2rem;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(25, 35, 228);
+    font-size: 1.4rem;
+}
+a:hover{
+    color: rgba(25, 35, 228, 0.486);
+    font-size: 1.4rem;
+}
