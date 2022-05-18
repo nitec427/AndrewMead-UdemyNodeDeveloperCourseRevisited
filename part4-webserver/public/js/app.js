@@ -10,7 +10,8 @@ myForm.addEventListener("submit", (e) => {
   )
     .then((response) => response.json())
     .then((data) => {
-      if (data.success === false) throw new Error("Unable to find location");
+      if (data.success === false)
+        throw new Error("Unable to find logit cation");
       console.log(data);
     })
     .catch((err) => console.log(err));

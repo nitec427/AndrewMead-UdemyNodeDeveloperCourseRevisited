@@ -4,5 +4,24 @@
     "express": "^4.18.1",
     "hbs": "^4.2.0",
     "request": "^2.88.2"
-  }
+  },
+  "name": "part4-webserver",
+  "description": "SSH is configured\r Master branch is deleted",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitec427/AndrewMead-UdemyNodeDeveloperCourseRevisited.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitec427/AndrewMead-UdemyNodeDeveloperCourseRevisited/issues"
+  },
+  "homepage": "https://github.com/nitec427/AndrewMead-UdemyNodeDeveloperCourseRevisited#readme"
 }
